@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap');
+.input_1::-webkit-file-upload-button{
+    margin-top: 2px;
+    margin-bottom: 0px;
+    cursor: pointer;
+    height: 35px;
+    width: 110px;
+    color: white;
+  display: inline-block;
+  background: rgb(13,110,253);
+  border: none;
+  font-weight: 400;
+  border-radius: 3px;
+  white-space: nowrap;
+  font-size: 16px;
+}
+.input_1::-webkit-file-upload-button:hover{
+    background: rgb(12, 90, 206);
+}
+.main{
+    margin-top: -5px;
+    margin-left: 525px;
+}
+.input_2{
+    margin-top: -5px;
+    margin-bottom: 12px;
+}
+.button{
+    width: 100%;
+    font-size: 17px;
+}
+.button_2{
+    color: red;
+}
+.li_1{
+    display: flex;
+    justify-content: space-between;
+}
+.p_2{
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
+}
+.display_3{
+    display: flex;
+}
+.small_1{
+    font-size: 16px;
+    margin-left: 3px;
+    margin-top: 4px;
+}

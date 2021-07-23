@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&display=swap');
+.nav_1{
+    margin-left: 10px;
+}
+.dpixel{
+    margin-left: 4px;
+    font-size: 35px;
+    font-family: 'Fuggles', cursive;
+}
+.nav_2{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.camera{
+    font-size: 45px !important;
+    margin-bottom: 7px !important;
+}
+.text{
+    font-size: 14px !important;
+}
+.img{
+    margin-left: 5px !important;
+}
